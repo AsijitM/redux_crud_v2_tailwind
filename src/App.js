@@ -10,7 +10,7 @@ function App() {
         CRUD with redux toolkit
       </h1>
       <Routes>
-        <Route path="/redux_crud_v2_tailwind" element={<UserList />} />
+        <Route path="/redux_crud_v2_tailwind/" element={<UserList />} />
         <Route path="/add-user" element={<AddUser />} />
         <Route path="/edit-user/:id" element={<EditUser />} />
       </Routes>
