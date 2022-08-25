@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/redux_crud_v2_tailwind/static/css/main.561caa92.css",
-    "main.js": "/redux_crud_v2_tailwind/static/js/main.fb02b2e8.js",
+    "main.js": "/redux_crud_v2_tailwind/static/js/main.1803a063.js",
     "index.html": "/redux_crud_v2_tailwind/index.html",
     "main.561caa92.css.map": "/redux_crud_v2_tailwind/static/css/main.561caa92.css.map",
-    "main.fb02b2e8.js.map": "/redux_crud_v2_tailwind/static/js/main.fb02b2e8.js.map"
+    "main.1803a063.js.map": "/redux_crud_v2_tailwind/static/js/main.1803a063.js.map"
   },
   "entrypoints": [
     "static/css/main.561caa92.css",
-    "static/js/main.fb02b2e8.js"
+    "static/js/main.1803a063.js"
   ]
 }
