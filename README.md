@@ -1,6 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/final.png)
+<h1> Used Technologies : React.js , Redux toolkit , Tailwind.css </h1>
+
+![image](https://user-images.githubusercontent.com/74970659/186657874-830dd18b-46c1-47ee-9efc-30e1d6b130dc.png)
+
+
+![image](https://user-images.githubusercontent.com/74970659/186657897-eee0c8a4-f2dd-4c59-b78c-562dd107529a.png)
+
+
+![image](https://user-images.githubusercontent.com/74970659/186657925-4cf2f22a-c765-4ac2-9fca-6ceb938b6ab0.png)
+
 
 ## Available Scripts
 
